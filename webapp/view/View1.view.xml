@@ -4,6 +4,7 @@
     <Page id="page" title="{i18n>title}">
         <content>
 <Label id="_IDGenLabel1" text="ok test file"></Label>
+<Label id="_IDGenLabel2" text="new changes"></Label>
          </content>
     </Page>
 </mvc:View>
