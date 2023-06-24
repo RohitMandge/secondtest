@@ -6,6 +6,7 @@
 <Label id="_IDGenLabel1" text="ok test file"></Label>
 <Label id="_IDGenLabel4" width="100%"></Label>
 <Label id="_IDGenLabel3" text="new changes for the github"></Label>
+<Label id="_IDGenLabel5" text="new"></Label>
          </content>
     </Page>
 </mvc:View>
